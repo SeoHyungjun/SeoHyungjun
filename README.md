@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Hyungjun Seo</b>
+</h1>
 
-<!--
-**SeoHyungjun/SeoHyungjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Hyungjun Seo
+<br>
 
-Here are some ideas to get you started:
+```python
+class Hyungjun():
+    
+  def __init__(self):
+    self.name = "Hyungjun Seo"
+    self.username = "SeoHyungJun"
+    self.location = "Seoul, South Korea"
+    self.company = "Samsung Research"
+    self.web = "0902.tistory.com"
+  
+  def __str__(self):
+    return self.name
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == '__main__':
+    me = Hyungjun()
+```
+
+Last Edited on: 08/12/2023
