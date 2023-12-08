@@ -5,13 +5,14 @@
 Hi there! 👋 I am a researcher and developer at Samsung Research, contributing to open source projects such as nnstreamer and nntrainer. I'm also actively involved in developing technologies that support on-device learning. When developing, I like to apply algorithms to improve the efficiency of programs. Learn more about me below!
 
 ### 🛠 &nbsp;My tech stack
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%23333333.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%23454545.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=ffffff)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%23333333.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%23454545.svg?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=ffffff)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wqwwq96)](https://solved.ac/wqwwq96)
 
 ### 👨🏻‍💻 &nbsp;About Me
 ```python
